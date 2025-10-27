@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Muhammad Ibrahim</h1>
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1400&q=80" alt="Dark theme banner" style="width:100%;max-height:220px;object-fit:cover;border-radius:8px;" />
-</p>
+
 
 <h3 align="center">MERN Stack Developer | BSSE Software Engineering (SMIU) | Intern @ Saylani Bootcamp 3.0</h3>
 
