@@ -1,22 +1,107 @@
-# 👋 Hi, I'm Muhammad Ibrahim
+<h1 align="center">👋 Hi, I'm Muhammad Ibrahim</h1>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1400&q=80" alt="Dark theme banner" style="width:100%;max-height:220px;object-fit:cover;" />
+  <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1400&q=80" alt="Dark theme banner" style="width:100%;max-height:220px;object-fit:cover;border-radius:8px;" />
 </p>
 
-### MERN Stack Developer | BSSE Software Engineering (SMIU) | Intern @ Saylani Bootcamp 3.0
+<h3 align="center">MERN Stack Developer | BSSE Software Engineering (SMIU) | Intern @ Saylani Bootcamp 3.0</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/University-SMIU-blue?style=flat-square&logo=academia&logoColor=white" />
   <img src="https://img.shields.io/badge/Intern-Saylani%20Bootcamp%203.0-green?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=social&logo=github" />
+  <img src="https://img.shields.io/github/followers/pretender-2905?label=GitHub&style=social" />
 </p>
 
 ---
 
-🎓 I'm an undergraduate **BSSE (Software Engineering)** student at **Sindh Madressatul Islam University (SMIU)** and currently doing an **internship at Saylani Mass IT Program (Bootcamp 3.0)**.
+🎓 I'm currently pursuing my **Bachelor's in Software Engineering (BSSE)** at **Sindh Madressatul Islam University (SMIU)** and doing an internship at **Saylani Mass IT Program — Bootcamp 3.0**.
 
-💻 I build modern web apps using the **MERN stack**. I completed **Modern Web & App Development** through the Saylani Mass IT Program (SMIT).
+💡 I enjoy building modern UIs and full‑stack applications using the **MERN stack**. I also completed **Modern Web and App Development** from Saylani Mass IT Program (SMIT).
+
+---
+
+## 🚀 Certifications
+
+* ✔️ Modern Web & App Development — Saylani Mass IT Program (SMIT)
+* ✔️ (Internship) Saylani Bootcamp 3.0 — Ongoing
+
+---
+
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Tools & DB</th>
+  </tr>
+  <tr>
+    <td>HTML, CSS, JavaScript, React.js</td>
+    <td>Node.js, Express.js</td>
+    <td>MongoDB, Git, Netlify, Vercel</td>
+  </tr>
+</table>
+
+---
+
+## 💻 Projects
+
+<p align="center"><b>Click the links to open live demos</b></p>
+
+<table align="center">
+<tr>
+<th>Project</th>
+<th>Live Demo</th>
+</tr>
+<tr>
+<td>Fully Functional E‑commerce Store</td>
+<td><a href="https://rococo-alfajores-bbd1d7.netlify.app/">Live Demo</a></td>
+</tr>
+<tr>
+<td>Netflix UI Clone</td>
+<td><a href="https://netflicks-final-final.netlify.app/">Live Demo</a></td>
+</tr>
+<tr>
+<td>Recipe App</td>
+<td><a href="https://idyllic-smakager-3c3787.netlify.app/">Live Demo</a></td>
+</tr>
+<tr>
+<td>Airline Ticket Booking</td>
+<td><a href="https://snazzy-jalebi-1bd605.netlify.app/">Live Demo</a></td>
+</tr>
+<tr>
+<td>Personal Portfolio</td>
+<td><a href="https://imaginative-crepe-64df5b.netlify.app/">Live Demo</a></td>
+</tr>
+<tr>
+<td>Startup Landing Page</td>
+<td><a href="https://lovely-haupia-016062.netlify.app/">Live Demo</a></td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pretender-2905&show_icons=true&theme=github_dark&count_private=true&hide=prs" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pretender-2905&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 Streak & Trophies
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pretender-2905&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pretender-2905&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -29,62 +114,24 @@
 * **Email:** [muhammadibrahim29052005@gmail.com](mailto:muhammadibrahim29052005@gmail.com)
 * **Contact:** +92 330 2826165
 * **Internship:** Saylani Mass IT Program — Bootcamp 3.0
-* **Completed Course:** Modern Web and App Development (SMIT)
 
 ---
 
-## 🛠️ Tech Stack
+## 📫 Let's Connect
 
-| Frontend                        | Backend             | Tools & DB            |
-| ------------------------------- | ------------------- | --------------------- |
-| HTML, CSS, JavaScript, React.js | Node.js, Express.js | MongoDB, Git, Netlify |
-
----
-
-## 💻 Featured Projects
-
-> Click the links to view live demos
-
-* **Fully Functional E‑commerce Store** — [https://rococo-alfajores-bbd1d7.netlify.app/](https://rococo-alfajores-bbd1d7.netlify.app/)
-* **Netflix UI Clone** — [https://netflicks-final-final.netlify.app/](https://netflicks-final-final.netlify.app/)
-* **Recipe App** — [https://idyllic-smakager-3c3787.netlify.app/](https://idyllic-smakager-3c3787.netlify.app/)
-* **Airline Ticket Booking** — [https://snazzy-jalebi-1bd605.netlify.app/](https://snazzy-jalebi-1bd605.netlify.app/)
-* **Personal Portfolio** — [https://imaginative-crepe-64df5b.netlify.app/](https://imaginative-crepe-64df5b.netlify.app/)
-* **Startup Landing Page** — [https://lovely-haupia-016062.netlify.app/](https://lovely-haupia-016062.netlify.app/)
-
----
-
-## 📫 Connect with Me
-
-* **LinkedIn:** [https://www.linkedin.com/in/muhammadibrahim2905/](https://www.linkedin.com/in/muhammadibrahim2905/)
-* **Instagram:** [https://www.instagram.com/muhammad_ibrahim.98/](https://www.instagram.com/muhammad_ibrahim.98/)
-* **Email:** [muhammadibrahim29052005@gmail.com](mailto:muhammadibrahim29052005@gmail.com)
-
----
-
-## 🔧 Notes & To-Do (replace placeholders)
-
-* Replace `pretender-2905` below if you want GitHub stats/Top Languages cards included.
-
-```
-<!-- Example GitHub stats (replace pretender-2905) -->
-<img src="https://github-readme-stats.vercel.app/api?username=pretender-2905&show_icons=true&theme=github_dark&count_private=true&hide=prs" alt="GitHub Stats" />
-```
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammadibrahim2905/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/muhammad_ibrahim.98/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:muhammadibrahim29052005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 ## 💬 Quote I Live By
 
-> *Keep learning, keep building.*
+> "Keep learning, keep building."
 
 ---
 
-*If you want, I can also:*
+*If you'd like, I can commit this README to a new repository named `pretender-2905` (I’ll give you the exact README.md content or push it for you if you provide access). I can also generate a custom dark-gradient SVG banner instead of the Unsplash image — say the word and I’ll add it.*
 
-* Add GitHub stats and top languages cards (I need your GitHub username).
-* Generate a banner/profile image or dark gradient header.
-* Produce a ready-to-paste `README.md` file formatted specifically for a GitHub profile repo (I already formatted this — tell me if you want any layout changes).
-
----
-
-*Generated for Muhammad Ibrahim — tell me any changes you want and I will update it.*
