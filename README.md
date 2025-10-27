@@ -131,7 +131,5 @@
 
 > "Keep learning, keep building."
 
----
 
-*If you'd like, I can commit this README to a new repository named `pretender-2905` (I’ll give you the exact README.md content or push it for you if you provide access). I can also generate a custom dark-gradient SVG banner instead of the Unsplash image — say the word and I’ll add it.*
 
