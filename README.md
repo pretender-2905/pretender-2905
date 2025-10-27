@@ -127,7 +127,7 @@
 
 ## 💬 Quote I Live By
 
-> "Keep learning, keep building."
+> "The ways of the heart can not be explained it wants what it wants."
 
 
 
